@@ -1,6 +1,6 @@
-#Servidor
+# Servidor
 
-Reconcstruir modules de Node
+Reconstruir modules de Node
 ```
 npm install
 
